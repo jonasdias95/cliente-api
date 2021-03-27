@@ -1,5 +1,5 @@
 # cliente-api
--RestFUL API com Spring Boot
--Java 8
--Maven 3.6.3
--Spring Boot 2.2.6
+<ul>RestFUL API com Spring Boot </ul>
+<ul>Java 8 </ul>
+<ul>Maven 3.6.3 </ul>
+<ul>-Spring Boot 2.2.6 </ul>
